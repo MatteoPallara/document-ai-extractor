@@ -241,7 +241,7 @@ curl http://localhost:11434/api/tags
 
 ---
 
-## 📁 Struttura Progetto (File Chiave)
+## Struttura Progetto (File Chiave)
 
 ```
 app/
